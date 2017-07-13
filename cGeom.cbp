@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cGeom" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cGeom" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cGeom" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Face.cpp" />
+		<Unit filename="Face.h" />
+		<Unit filename="HalfEdge.cpp" />
+		<Unit filename="HalfEdge.h" />
+		<Unit filename="Point.cpp" />
+		<Unit filename="Point.h" />
+		<Unit filename="Vertex.cpp" />
+		<Unit filename="Vertex.h" />
+		<Unit filename="closest.cpp" />
+		<Unit filename="closest.h" />
+		<Unit filename="compare.cpp" />
+		<Unit filename="compare.h" />
+		<Unit filename="furthest.cpp" />
+		<Unit filename="furthest.h" />
+		<Unit filename="grahamScan.cpp" />
+		<Unit filename="grahamScan.h" />
+		<Unit filename="jarvis.cpp" />
+		<Unit filename="jarvis.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="newt.cpp" />
+		<Unit filename="newt.h" />
+		<Unit filename="readWrite.cpp" />
+		<Unit filename="readWrite.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

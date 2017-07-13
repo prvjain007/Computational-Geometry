@@ -1,0 +1,19 @@
+ply
+format ascii 1.0
+element vertex 8
+property float x
+property float y
+property float z
+element face 2
+property list uchar int vertex_index
+end_header
+1 7 0
+4 2 0
+5 4 0
+8 1 0
+9 3 0
+6 8 0
+6 5 0
+2 9 0
+6 0 7 5 4 6 2 
+6 4 3 1 0 2 6 

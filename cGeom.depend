@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1493460504 source:e:\cpp\cgeom\main.cpp
+	"newt.h"
+	"compare.h"
+	"Point.h"
+	"grahamScan.h"
+	"jarvis.h"
+	"readWrite.h"
+	<bits/stdc++.h>
+	<fstream>
+	"closest.h"
+	"furthest.h"
+
+1493457059 e:\cpp\cgeom\point.h
+
+1493380676 source:e:\cpp\cgeom\point.cpp
+	"Point.h"
+	<iostream>
+
+1487074537 source:e:\cpp\cgeom\basic.cpp
+	"Basic.h"
+	"Point.h"
+	<iostream>
+
+1487074537 e:\cpp\cgeom\basic.h
+	"Point.h"
+
+1487085210 source:e:\cpp\cgeom\comparor.cpp
+	"Comparor.h"
+	"Point.h"
+	<iostream>
+
+1487085240 e:\cpp\cgeom\comparor.h
+	"Point.h"
+
+1493456687 source:e:\cpp\cgeom\compare.cpp
+	"compare.h"
+	"Point.h"
+	<bits/stdc++.h>
+	<fstream>
+
+1493457454 e:\cpp\cgeom\compare.h
+	"Point.h"
+
+1487360008 e:\cpp\cgeom\newt.h
+	"Point.h"
+	"compare.h"
+
+1487365914 source:e:\cpp\cgeom\newt.cpp
+	"newt.h"
+	"compare.h"
+	"Point.h"
+	"readWrite.h"
+	<bits/stdc++.h>
+
+1493379257 source:e:\cpp\cgeom\jarvis.cpp
+	"compare.h"
+	"Point.h"
+	"jarvis.h"
+	"readWrite.h"
+	<bits/stdc++.h>
+	<fstream>
+
+1493379257 e:\cpp\cgeom\jarvis.h
+	"compare.h"
+
+1487365588 source:e:\cpp\cgeom\grahamscan.cpp
+	"grahamScan.h"
+	"compare.h"
+	"Point.h"
+	"readWrite.h"
+	<bits/stdc++.h>
+
+1487330672 e:\cpp\cgeom\grahamscan.h
+	"compare.h"
+
+1493445877 e:\cpp\cgeom\readwrite.h
+	"Point.h"
+
+1493446671 source:e:\cpp\cgeom\readwrite.cpp
+	"readWrite.h"
+	"newt.h"
+	"grahamScan.h"
+	"jarvis.h"
+	"compare.h"
+	"Point.h"
+	<bits/stdc++.h>
+	<fstream>
+
+1493268670 source:e:\cpp\polytriangulation\dcel.cpp
+	<bits/stdc++.h>
+	"Dcel.h"
+
+1493268670 e:\cpp\polytriangulation\dcel.h
+	"Face.h"
+	"Vertex.h"
+	"HalfEdge.h"
+	<bits/stdc++.h>
+	"Compare.h"
+
+1493263042 e:\cpp\polytriangulation\face.h
+	"HalfEdge.h"
+	"Vertex.h"
+
+1493263042 e:\cpp\polytriangulation\halfedge.h
+	"Vertex.h"
+	"Face.h"
+
+1493263042 e:\cpp\polytriangulation\vertex.h
+	"HalfEdge.h"
+	"Face.h"
+	<string>
+	<bits/stdc++.h>
+
+1493257005 e:\cpp\polytriangulation\compare.h
+	"Face.h"
+	"Vertex.h"
+	"HalfEdge.h"
+	<bits/stdc++.h>
+
+1493018457 source:e:\cpp\polytriangulation\face.cpp
+	"Face.h"
+
+1493018747 source:e:\cpp\polytriangulation\halfedge.cpp
+	"HalfEdge.h"
+
+1493018747 source:e:\cpp\polytriangulation\vertex.cpp
+	"Vertex.h"
+
+1493379470 source:e:\cpp\cgeom\dcel.cpp
+	<bits/stdc++.h>
+	"Dcel.h"
+
+1493379698 e:\cpp\cgeom\dcel.h
+	"Face.h"
+	"Vertex.h"
+	"HalfEdge.h"
+	<bits/stdc++.h>
+	"Compare.h"
+
+1493379520 e:\cpp\cgeom\face.h
+	"HalfEdge.h"
+	"Vertex.h"
+
+1493379684 e:\cpp\cgeom\halfedge.h
+	"Vertex.h"
+	"Face.h"
+
+1493379648 e:\cpp\cgeom\vertex.h
+	"HalfEdge.h"
+	"Face.h"
+	<string>
+	<bits/stdc++.h>
+
+1493379534 source:e:\cpp\cgeom\face.cpp
+	"Face.h"
+
+1493379678 source:e:\cpp\cgeom\halfedge.cpp
+	"HalfEdge.h"
+
+1493379630 source:e:\cpp\cgeom\vertex.cpp
+	"Vertex.h"
+
+1493458245 source:e:\cpp\cgeom\closest.cpp
+	"closest.h"
+	<stdio.h>
+	<float.h>
+	<stdlib.h>
+	<math.h>
+	"compare.h"
+	"Point.h"
+	"jarvis.h"
+	"readWrite.h"
+
+1493457351 e:\cpp\cgeom\closest.h
+	"compare.h"
+
+1493460073 source:e:\cpp\cgeom\furthest.cpp
+	"furthest.h"
+	"closest.h"
+	<stdio.h>
+	<float.h>
+	<stdlib.h>
+	<math.h>
+	"compare.h"
+	"Point.h"
+	"jarvis.h"
+	"readWrite.h"
+	<iostream>
+
+1493458752 e:\cpp\cgeom\furthest.h
+	"compare.h"
+
